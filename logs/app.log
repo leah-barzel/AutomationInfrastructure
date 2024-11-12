@@ -1,0 +1,22 @@
+2024-11-11 11:03:04 INFO  Logging.LoggerManager - Initializing WebDriverManager...
+2024-11-11 11:03:06 INFO  Logging.LoggerManager - Driver initialized for browser: CHROME
+2024-11-11 11:03:06 INFO  Logging.LoggerManager - WebDriver initialized.
+2024-11-11 11:03:06 INFO  Logging.LoggerManager - Browser window maximized.
+2024-11-11 11:03:08 ERROR Logging.LoggerManager - Test failed. Taking screenshot.
+2024-11-11 11:03:09 ERROR Logging.LoggerManager - Test failed: exampleTest() | Error: Random failure example ==> expected: <true> but was: <false>
+2024-11-11 11:03:09 INFO  Logging.LoggerManager - Closing WebDriver...
+2024-11-11 11:03:09 INFO  Logging.LoggerManager - WebDriver closed.
+2024-11-11 11:03:36 INFO  Logging.LoggerManager - Initializing WebDriverManager...
+2024-11-11 11:03:38 INFO  Logging.LoggerManager - Driver initialized for browser: CHROME
+2024-11-11 11:03:38 INFO  Logging.LoggerManager - WebDriver initialized.
+2024-11-11 11:03:38 INFO  Logging.LoggerManager - Browser window maximized.
+2024-11-11 11:03:40 INFO  Logging.LoggerManager - Test passed: exampleTest()
+2024-11-11 11:03:40 INFO  Logging.LoggerManager - Closing WebDriver...
+2024-11-11 11:03:40 INFO  Logging.LoggerManager - WebDriver closed.
+2024-11-11 11:04:02 INFO  Logging.LoggerManager - Initializing WebDriverManager...
+2024-11-11 11:04:03 INFO  Logging.LoggerManager - Driver initialized for browser: CHROME
+2024-11-11 11:04:03 INFO  Logging.LoggerManager - WebDriver initialized.
+2024-11-11 11:04:03 INFO  Logging.LoggerManager - Browser window maximized.
+2024-11-11 11:04:06 INFO  Logging.LoggerManager - Test passed: exampleTest()
+2024-11-11 11:04:06 INFO  Logging.LoggerManager - Closing WebDriver...
+2024-11-11 11:04:06 INFO  Logging.LoggerManager - WebDriver closed.
